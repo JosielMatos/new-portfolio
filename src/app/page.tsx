@@ -23,12 +23,12 @@ export default function Home() {
               Sou desenvolvedor de Software Full Stack há mais de 2 anos
               especializado na criação de soluções para aplicações web. Minha
               expertise atualmente está no ecossistema JavaScript/TypeScript,
-              com tecnologias como Node.js, Nest.js, React.js, , MongoDB, e
-              MariaDB. Atuei no projeto que conecta mais de 700 mil usuários a 7
-              mil treinadores em eventos de bem-estar, o app TFSports da
-              Track&Field, contribuindo para entrega de soluções que melhoram a
-              experiência de interação e integração dos atletas. Na REDGTECH
-              Automação, contribuí com o desenvolvimento de componentes
+              com tecnologias como Node.js, Nest.js, React.js, TypeORM, Prisma,
+              MongoDB, e MariaDB. Atuei no projeto que conecta mais de 700 mil
+              usuários a 7 mil treinadores em eventos de bem-estar, o app
+              TFSports da Track&Field, contribuindo para entrega de soluções que
+              melhoram a experiência de interação e integração dos atletas. Na
+              REDGTECH Automação, contribuí com o desenvolvimento de componentes
               Front-End, integrando com soluções de automação, garantindo uma
               melhor experiência de usuário.
             </p>
